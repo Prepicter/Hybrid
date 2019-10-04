@@ -1,0 +1,10 @@
+w3schools.com
+
+
+업그레이드 내용
+
+1. 이미지 마우스댈때 밑에 넓어지는거 제거
+2. 이미지 마우스댈때 이미지 커지게
+3. nav 부분을 div data-role="navbar"로 변경
+4. header 부분을 div data-role="header"로 변경
+5. footer 부분을 div data-role="footer"로 변경
